@@ -14,7 +14,7 @@ Lucy-Xss-Servlet-Filter는 웹어플리케이션으로 들어오는 모든 요�
 - 설정한 파라메터 필터링 제외
  
 Lucy-Xss-Servlet-Filter를 적용하게 되면 아래와 같은 장단점이 있습니다. 
-
+dsfjajsdsfajklfdsakjlasdfkjlfdsajklsafdkjl
 - XML 설정 만으로 XSS 방어가 가능해짐
 - 비지니스 레이어의 코드 수정이 발생하지 않음
 - 개발자가 XSS 방어를 신경 쓰지 않아도 됨
